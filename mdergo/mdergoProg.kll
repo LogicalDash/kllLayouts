@@ -54,6 +54,7 @@ U"Function2" : U"Slash";
 U"BACKTICK" : None;
 U"FUNCTION3" : None;
 U"FUNCTION4" : None;
+U"FUNCTION5" : None;
 
 #--------------------Thumb--------------------
 U"Backspace" : U"LShift";
@@ -106,6 +107,7 @@ U"PERIOD" : U"V";
 U"SLASH" : U"Z";
 U"RShift" : None;
 
+U"Left" : None;
 U"Down" : None;
 U"Up" : None;
 U"Right" : None;
