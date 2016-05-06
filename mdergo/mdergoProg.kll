@@ -54,7 +54,6 @@ U"Function2" : U"Slash";
 U"BACKTICK" : None;
 U"FUNCTION3" : None;
 U"FUNCTION4" : None;
-U"Function5" : U"LGui";
 
 #--------------------Thumb--------------------
 U"Backspace" : U"LShift";
@@ -107,8 +106,6 @@ U"PERIOD" : U"V";
 U"SLASH" : U"Z";
 U"RShift" : None;
 
-#--------------------Bottom Row--------------------
-U"Left" : U"LGui";
 U"Down" : None;
 U"Up" : None;
 U"Right" : None;
