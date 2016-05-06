@@ -16,26 +16,12 @@ U"3" + U"LShift" (O) : U"LBracket" + U"LShift" (H);  # { Left curly brace
 U"4" + U"LShift" (O) : U"RBracket" + U"LShift" (H);  # } Right curly brace
 U"5" + U"LShift" (O) : U"9" + U"LShift" (H);  # ( Open parenthesis
 U"6" + U"LShift" (O) : U"Equals";
-U"7" + U"LShift" (O) : U"8" + U"LShift" (H);  # * Asterisk
-U"8" + U"LShift" (O) : U"0" + U"LShift" (H);  # ) Close parenthesis
-U"9" + U"LShift" (O) : U"Equals" + U"LShift" (H);  # + Plus sign
-U"0" + U"LShift" (O) : U"RBracket";
-U"Minus" + U"LShift" (O) : U"1" + U"LShift" (H);  # ! Exclamation point
-U"Equals" + U"LShift" (O) : U"3" + U"LShift" (H); # # Octothorpe
-U"Backtick" + U"LShift" (H) : U"Backtick" + U"LShift" (H);  # ~ Tilde
 U"1" + U"LShift" (H) : U"5" + U"LShift";  # % Percent sign
 U"2" + U"LShift" (H) : U"7";
 U"3" + U"LShift" (H) : U"5";
 U"4" + U"LShift" (H) : U"3";
 U"5" + U"LShift" (H) : U"1";
 U"6" + U"LShift" (H) : U"9";
-U"7" + U"LShift" (H) : U"0";
-U"8" + U"LShift" (H) : U"2";
-U"9" + U"LShift" (H) : U"4";
-U"0" + U"LShift" (H) : U"6";
-U"Minus" + U"LShift" (H) : "8"
-U"Equals" + U"Lshift" (H) : U"Backtick";
-U"Esc" : U"Esc";
 
 #--------------------Upper Middle Row--------------------
 U"BACKSLASH" : U"Function<mdergoFunctionKeys.number>";
@@ -82,12 +68,20 @@ U"LCtrl" : U"Lock<mdergoQwerty.number>";
 
 #--------------------Top Row--------------------
 U"Function6" : U"Esc";
-U"6" : U"6" + U"LShift";
-U"7" : U"7" + U"LShift";
-U"8" : U"8" + U"LShift";
-U"9" : U"9" + U"LShift", U"0" + U"LShift", U"Left";
-U"0" : U"LBrace", U"RBrace", U"Left";
-U"Minus" : U"LShift" + U"LBrace", U"LShift" + U"RBrace", U"Left";
+U"7" + U"LShift" (O) : U"8" + U"LShift" (H);  # * Asterisk
+U"8" + U"LShift" (O) : U"0" + U"LShift" (H);  # ) Close parenthesis
+U"9" + U"LShift" (O) : U"Equals" + U"LShift" (H);  # + Plus sign
+U"0" + U"LShift" (O) : U"RBracket";
+U"Minus" + U"LShift" (O) : U"1" + U"LShift" (H);  # ! Exclamation point
+U"Equals" + U"LShift" (O) : U"3" + U"LShift" (H); # # Octothorpe
+U"Backtick" + U"LShift" (H) : U"Backtick" + U"LShift" (H);  # ~ Tilde
+U"7" + U"LShift" (H) : U"0";
+U"8" + U"LShift" (H) : U"2";
+U"9" + U"LShift" (H) : U"4";
+U"0" + U"LShift" (H) : U"6";
+U"Minus" + U"LShift" (H) : "8"
+U"Equals" + U"Lshift" (H) : U"Backtick";
+U"Esc" : U"Esc";
 
 #--------------------Upper Middle Row--------------------
 U"LBrace" : U"Backtick";
