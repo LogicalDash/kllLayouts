@@ -88,7 +88,7 @@ U"I" : U"C";
 U"O" : U"R";
 U"P" : U"L";
 U"RBrace" : U"2" + U"LShift";  # at sign
-U"RBrace" : U"6" + U"LShift";  # caret
+U"RBrace" + U["LShift", "RShift"] : U"6" + U"LShift";  # caret
 
 #--------------------Middle Row--------------------
 U"H" : U"D";
