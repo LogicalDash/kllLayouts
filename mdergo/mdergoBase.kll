@@ -44,7 +44,7 @@ U"B" : U"X";
 U"Function2" : U"Slash";
 
 #--------------------Bottom Row--------------------
-U"LGui" : U"Function<mdergoProg.number>";
+U"LGui" : U"Lock<mdergoProg.number>";
 U"BACKTICK" : None;
 U"FUNCTION3" : None;
 U"FUNCTION4" : None;
@@ -100,7 +100,7 @@ U"Left" : U"LGui";
 U"Down" : None;
 U"Up" : None;
 U"Right" : None;
-U"RGui" : U"Function<mdergoProg.number>";
+U"RGui" : U"Lock<mdergoProg.number>";
 
 #--------------------Thumb--------------------
 U"PageDown" : U"RCtrl";
