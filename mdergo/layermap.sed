@@ -17,4 +17,4 @@ s/<mdergoNumbers.number>/5/g
 s/<mdergoQwerty.number>/6/g
 s/<mdergoNumpad.number>/7/g
 s/<mdergoWindowsFunctions.number>/8/g
-s/<mdergoBoot.number>/9/g
+s/<mdergoProg.number>/9/g
