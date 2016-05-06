@@ -100,7 +100,7 @@ U"Left" : U"LGui";
 U"Down" : None;
 U"Up" : None;
 U"Right" : None;
-U"RGui" : U"Function<mdergoBoot.number>";
+U"RGui" : U"Function<mdergoProg.number>";
 
 #--------------------Thumb--------------------
 U"PageDown" : U"RCtrl";
