@@ -9,20 +9,20 @@ Date = "2015-10-04";
 #####################Left Hand####################
 
 #--------------------Top Row--------------------
-U"Backtick" + U"LShift" (O) + U"RShift" (O) : U"4" + U"LShift" (H);  # $ Dollar
-U"1" + U"LShift" (O) + U"RShift" (O) : U"7" + U"LShift" (H);  # & Ampersand
-U"2" + U"LShift" (O) + U"RShift" (O) : U"LBracket";
-U"3" + U"LShift" (O) + U"RShift" (O) : U"LBracket" + U"LShift" (H);  # { Left curly brace
-U"4" + U"LShift" (O) + U"RShift" (O) : U"RBracket" + U"LShift" (H);  # } Right curly brace
-U"5" + U"LShift" (O) + U"RShift" (O) : U"9" + U"LShift" (H);  # ( Open parenthesis
-U"6" + U"LShift" (O) + U"RShift" (O) : U"Equals";
-U"Backtick" + U["LShift", "RShift"] (H) : U"Backtick" + U"LShift" (H);  # ~ Tilde
-U"1" + U["LShift", "RShift"] (H) : U"5" + U"LShift";  # % Percent sign
-U"2" + U["LShift", "RShift"] (H) : U"7";
-U"3" + U["LShift", "RShift"] (H) : U"5";
-U"4" + U["LShift", "RShift"] (H) : U"3";
-U"5" + U["LShift", "RShift"] (H) : U"1";
-U"6" + U["LShift", "RShift"] (H) : U"9";
+U"Backtick" : U"4" + U"LShift";  # Dollar
+U"1" : U"7" + U"LShift";  # Ampersand
+U"2" : U"LBracket";
+U"3" : U"LBracket" + U"LShift";  # Left curly brace
+U"4" : U"RBracket" + U"LShift";  # Right curly brace
+U"5" : U"9" + U"LShift";  # Open parenthesis
+U"6" : U"Equals";
+U"Backtick" : U"Backtick" + U"LShift";  # Tilde
+U"1" + U["LShift", "RShift"] : U"5" + U"LShift";  # Percent sign
+U"2" + U["LShift", "RShift"] : U"7";
+U"3" + U["LShift", "RShift"] : U"5";
+U"4" + U["LShift", "RShift"] : U"3";
+U"5" + U["LShift", "RShift"] : U"1";
+U"6" + U["LShift", "RShift"] : U"9";
 
 #--------------------Upper Middle Row--------------------
 U"BACKSLASH" : U"Function<mdergoFunctionKeys.number>";
@@ -51,7 +51,6 @@ U"B" : U"X";
 U"Function2" : U"Slash";
 
 #--------------------Bottom Row--------------------
-U"LGui" : U"Function<mdergoBase.number>";
 U"BACKTICK" : None;
 U"FUNCTION3" : None;
 U"FUNCTION4" : None;
@@ -69,16 +68,16 @@ U"LCtrl" : U"Lock<mdergoQwerty.number>";
 
 #--------------------Top Row--------------------
 U"Function6" : U"Esc";
-U"7" + U"LShift" (O) + U"RShift" (O) : U"8" + U"LShift" (H);  # * Asterisk
-U"8" + U"LShift" (O) + U"RShift" (O) : U"0" + U"LShift" (H);  # ) Close parenthesis
-U"9" + U"LShift" (O) + U"RShift" (O) : U"Equals" + U"LShift" (H);  # + Plus sign
-U"0" + U"LShift" (O) + U"RShift" (O) : U"RBracket";
-U"Minus" + U"LShift" (O) + U"RShift" (O) : U"1" + U"LShift" (H);  # ! Exclamation point
-U"Equals" + U"LShift" (O) + U"RShift" (O) : U"3" + U"LShift" (H); # # Octothorpe
-U"7" + U["LShift", "RShift"] (H) : U"0";
-U"8" + U["LShift", "RShift"] (H) : U"2";
-U"9" + U["LShift", "RShift"] (H) : U"4";
-U"0" + U["LShift", "RShift"] (H) : U"6";
+U"7" : U"8" + U"LShift";  # Asterisk
+U"8" : U"0" + U"LShift";  # Close parenthesis
+U"9" : U"Equals" + U"LShift";  # Plus sign
+U"0" : U"RBracket";
+U"Minus" : U"1" + U"LShift";  # Exclamation point
+U"Equals" : U"3" + U"LShift"; # Octothorpe
+U"7" + U["LShift", "RShift"] : U"0";
+U"8" + U["LShift", "RShift"] : U"2";
+U"9" + U["LShift", "RShift"] : U"4";
+U"0" + U["LShift", "RShift"] : U"6";
 
 
 #--------------------Upper Middle Row--------------------
@@ -88,8 +87,8 @@ U"U" : U"G";
 U"I" : U"C";
 U"O" : U"R";
 U"P" : U"L";
-U"RBrace" + U"LShift" (O) + U"RShift" (O) : U"2" + U"LShift" (H);  # @ at sign
-U"RBrace" + U["LShift", "RShift"] (H) : U"6" + U"LShift" (H);  # ^ caret
+U"RBrace" : U"2" + U"LShift";  # at sign
+U"RBrace" : U"6" + U"LShift";  # caret
 
 #--------------------Middle Row--------------------
 U"H" : U"D";
