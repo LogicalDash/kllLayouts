@@ -44,7 +44,7 @@ U"B" : U"X";
 U"Function2" : U"Slash";
 
 #--------------------Bottom Row--------------------
-U"LGui" : U"Lock<mdergoProg.number>";
+U"LGui" : U"Lock<mdergoBoot.number>";
 U"BACKTICK" : U"Insert";
 U"FUNCTION3" : U"Delete";
 U"FUNCTION4" : U"Pause";
@@ -100,7 +100,7 @@ U"Left" : U"RGui";
 U"Down" : U"Cut";
 U"Up" : U"Copy";
 U"Right" : U"Paste";
-U"RGui" : U"Lock<mdergoProg.number>";
+U"RGui" : U"Lock<mdergoBoot.number>";
 
 #--------------------Thumb--------------------
 U"PageDown" : U"RCtrl";
