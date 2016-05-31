@@ -5,28 +5,6 @@ Author = "Adamsaj";
 KLL = "0.3c";
 Date = "2015-10-04";
 
-#Function Keys
-#Left Hand
-U"Backspace" : U"Space";
-U"LShift" : U"LShift";
-U"Delete" : U"Enter";
-U"Tab" : U"CAPSLOCK";
-U"Backslash" : U"Tab";
-
-#Right Hand
-
-#Un-Shifted Numbers
-U"1" : U"1";
-U"2" : U"2";
-U"3" : U"3";
-U"4" : U"4";
-U"5" : U"5";
-U"6" : U"6";
-U"7" : U"7";
-U"8" : U"8";
-U"9" : U"9";
-U"0" : U"0";
-
 #QWERTY keys
 U"Q" : U"Q";
 U"W" : U"W";
@@ -57,3 +35,5 @@ U"N" : U"N";
 U"COMMA" : U"COMMA";
 U"PERIOD" : U"PERIOD";
 U"SLASH" : U"SLASH";
+U"Equals": U"Equals";
+U"Minus": U"Minus";

@@ -10,11 +10,11 @@ Date = "2015-10-04";
 
 #--------------------Top Row--------------------
 U"Equals" : None;
-U"1" : U"1" + U"LShift";
-U"2" : U"2" + U"LShift";
-U"3" : U"3" + U"LShift";
-U"4" : U"4" + U"LShift";
-U"5" : U"5" + U"LShift";
+U"1" : U"1";
+U"2" : U"2";
+U"3" : U"3";
+U"4" : U"4";
+U"5" : U"5";
 U"Esc" : U"Esc";
 
 #--------------------Upper Middle Row--------------------
@@ -45,9 +45,9 @@ U"Function2" : U"Slash";
 
 #--------------------Bottom Row--------------------
 U"LGui" : U"Lock<mdergoProg.number>";
-U"BACKTICK" : None;
-U"FUNCTION3" : None;
-U"FUNCTION4" : None;
+U"BACKTICK" : U"Insert";
+U"FUNCTION3" : U"Delete";
+U"FUNCTION4" : U"Pause";
 U"Function5" : U"LGui";
 
 #--------------------Thumb--------------------
@@ -61,13 +61,13 @@ U"LCtrl" : U"Lock<mdergoQwerty.number>";
 #####################Right Hand####################
 
 #--------------------Top Row--------------------
-U"Function6" : U"Esc";
-U"6" : U"6" + U"LShift";
-U"7" : U"7" + U"LShift";
-U"8" : U"8" + U"LShift";
-U"9" : U"9" + U"LShift", U"0" + U"LShift", U"Left";
-U"0" : U"LBrace", U"RBrace", U"Left";
-U"Minus" : U"LShift" + U"LBrace", U"LShift" + U"RBrace", U"Left";
+U"Function6" : U"LBrace";
+U"6" : U"6";
+U"7" : U"7";
+U"8" : U"8";
+U"9" : U"9";
+U"0" : U"0";
+U"Minus" : U"RBrace";
 
 #--------------------Upper Middle Row--------------------
 U"LBrace" : U"Backtick";
@@ -96,10 +96,10 @@ U"SLASH" : U"Z";
 U"RShift" : None;
 
 #--------------------Bottom Row--------------------
-U"Left" : U"LGui";
-U"Down" : None;
-U"Up" : None;
-U"Right" : None;
+U"Left" : U"RGui";
+U"Down" : U"Cut";
+U"Up" : U"Copy";
+U"Right" : U"Paste";
 U"RGui" : U"Lock<mdergoProg.number>";
 
 #--------------------Thumb--------------------
