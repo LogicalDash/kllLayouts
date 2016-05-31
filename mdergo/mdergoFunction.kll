@@ -24,5 +24,3 @@ U"Function2" : ledControl( 3, 15, 0 );
 U"Esc" : ledControl( 5, 0, 0 );
 U"Home" : CONS"BRIGHTNESSINCREMENT";
 U"End" : CONS"BRIGHTNESSDECREMENT";
-
-U"Down" : flashMode();
