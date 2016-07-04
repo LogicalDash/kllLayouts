@@ -34,6 +34,7 @@ U"B" : U"B";
 U"N" : U"N";
 U"COMMA" : U"COMMA";
 U"PERIOD" : U"PERIOD";
-U"SLASH" : U"SLASH";
+U"Function2" : U"LBracket";
+U"Function6": U"RBracket";
 U"Equals": U"Equals";
 U"Minus": U"Minus";
